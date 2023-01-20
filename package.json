@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/waarrk/nodejs_stl_analysis/issues"
   },
-  "homepage": "https://github.com/waarrk/nodejs_stl_analysis#readme"
+  "homepage": "https://github.com/waarrk/nodejs_stl_analysis#readme",
+  "dependencies": {
+    "node-stl": "^0.7.3"
+  }
 }
